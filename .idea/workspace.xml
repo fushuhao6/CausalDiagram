@@ -76,81 +76,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Second version" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="872" y="358" key="#Deployment" timestamp="1610343634344">
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1644178036114">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="358" key="#Deployment/0.0.2560.1400@0.0.2560.1400" timestamp="1610343634344" />
-    <state x="856" y="345" key="#SSH_Configurations" timestamp="1610343398599">
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-1080.-469.1080.1880@0.0.2560.1400" timestamp="1644178036114" />
+    <state x="1104" y="619" key="Github.CreateGistDialog" timestamp="1644177997283">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="856" y="345" key="#SSH_Configurations/0.0.2560.1400@0.0.2560.1400" timestamp="1610343398599" />
-    <state width="2539" height="492" key="GridCell.Tab.0.bottom" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.0.center" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.0.left" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.0.right" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.2.bottom" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.2.center" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.2.left" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.2.right" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.3.bottom" timestamp="1610362686011">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686011" />
-    <state width="2539" height="492" key="GridCell.Tab.3.center" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.3.left" timestamp="1610362686010">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686010" />
-    <state width="2539" height="492" key="GridCell.Tab.3.right" timestamp="1610362686011">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2539" height="492" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610362686011" />
-    <state x="1699" y="454" key="ftp.server.browser" timestamp="1610343631114">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1699" y="454" key="ftp.server.browser/0.0.2560.1400@0.0.2560.1400" timestamp="1610343631114" />
+    <state x="1104" y="619" key="Github.CreateGistDialog/0.0.2560.1400/-1080.-469.1080.1880@0.0.2560.1400" timestamp="1644177997283" />
   </component>
 </project>
