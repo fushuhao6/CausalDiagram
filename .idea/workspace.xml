@@ -56,7 +56,7 @@
       <workItem from="1610356568189" duration="6071000" />
       <workItem from="1610488678576" duration="852000" />
       <workItem from="1610514505829" duration="3023000" />
-      <workItem from="1644177460336" duration="766000" />
+      <workItem from="1644177460336" duration="1183000" />
     </task>
     <task id="LOCAL-00001" summary="Second version">
       <created>1644178087936</created>
@@ -65,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644178087936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second version">
+      <created>1644178242699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644178242699</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second version">
+      <created>1644178337322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644178337322</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +98,13 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1104" y="619" key="Github.CreateGistDialog/0.0.2560.1400/-1080.-469.1080.1880@0.0.2560.1400" timestamp="1644177997283" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1644178456868">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1080.-469.1080.1880@0.0.2560.1400" timestamp="1644178456868" />
+    <state x="1081" y="606" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1644178389096">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1081" y="606" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1400/-1080.-469.1080.1880@0.0.2560.1400" timestamp="1644178389096" />
   </component>
 </project>
