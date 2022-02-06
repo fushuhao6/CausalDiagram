@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427b3f9b-2c71-49df-9f74-5ca223cc00a0" name="Default Changelist" comment="" />
+    <list default="true" id="427b3f9b-2c71-49df-9f74-5ca223cc00a0" name="Default Changelist" comment="Second version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1muKna7TDL1QZlkcVDsmTte2TAg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,12 +56,24 @@
       <workItem from="1610356568189" duration="6071000" />
       <workItem from="1610488678576" duration="852000" />
       <workItem from="1610514505829" duration="3023000" />
-      <workItem from="1644177460336" duration="404000" />
+      <workItem from="1644177460336" duration="766000" />
     </task>
+    <task id="LOCAL-00001" summary="Second version">
+      <created>1644178087936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644178087936</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="358" key="#Deployment" timestamp="1610343634344">
