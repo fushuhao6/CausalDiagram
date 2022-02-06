@@ -1,0 +1,36 @@
+body{ background-color: ivory; }
+#canvas{border:1px solid red;}
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    color: dodgerblue;
+}
+.btn:hover {
+    background: #2196F3;
+    color: white;
+}
+
+.button {
+    position: relative;
+    margin: 25px auto auto auto;
+    width: 250px;
+    height: 35px;
+    font-size: 18px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 8px;
+    background: #252525;
+    color: #dddddd;
+    cursor: pointer;
+}
+.button:hover {
+    background: #333;
+}
+.button:active {
+    background: #111;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Causal Diagram example</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body onLoad="start()">
+    <canvas id="canvas" width=700 height=600></canvas>
+
+    <div class='btn' id='drawLine' onclick='set_mode("drag")'>Drag Text</div>
+    <div class='btn' id='dragText' onclick='set_mode("draw")'>Draw Line</div>
+    <div class='btn' id='redo' onclick='redo()'>Redo</div>
+    <div class='btn' id='reset' onclick='reset()'>Clear</div>
+
+    <script src="index.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+</body>
+</html>

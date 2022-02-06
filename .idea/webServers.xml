@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0050ebc-9e10-4add-b24e-42c1f781d613" name="causal" url="shuhao.cvls.online">
+        <fileTransfer rootFolder="/home/shuhao/" accessType="SFTP" host="shuhao.cvls.online" port="22" sshConfigId="5898fab8-19c9-4b2a-b51f-fc01dad5b866" sshConfig="shuhao@shuhao.cvls.online:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

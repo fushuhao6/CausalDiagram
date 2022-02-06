@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="shuhao.cvls.online" id="5898fab8-19c9-4b2a-b51f-fc01dad5b866" port="22" nameFormat="DESCRIPTIVE" username="shuhao" />
+    </configs>
+  </component>
+</project>
